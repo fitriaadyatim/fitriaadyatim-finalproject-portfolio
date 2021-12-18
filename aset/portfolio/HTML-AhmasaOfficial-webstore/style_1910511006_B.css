@@ -1,0 +1,158 @@
+body {
+    font: 16px/28px "Open Sans", sans-serif;
+    background-color: #3A3A3C;
+    color : #272343;
+}
+
+.container {
+    width: 800px;
+    margin: auto;
+    background-color: #E8E8BA;
+}
+
+.header {
+    padding : 15px;
+}
+
+.judul {
+    font: 50px Merriweather, serif;
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+  
+li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+li a {
+    text-decoration: none;
+    color: #841818;
+    padding: 3px;
+}
+
+.nav li a:hover{
+    background-color: #4974a5;
+    color: #E8E8BA;
+}
+
+.active {
+    background-color: #4974a5;
+    color: #E8E8BA;
+}
+
+.hero{
+    height: 200px;
+    background-image: url(img/hero.jpeg);
+    background-size: cover;
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+}
+
+.content{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.content h2{
+    font-size: 38px;
+    font-weight: bold;
+    line-height: 0;
+    padding-top: 10px;
+}
+
+.penulis{
+    font-size: 11px;
+    line-height: 0;
+    padding-bottom: 20px;
+}
+
+.penulis a {
+    text-decoration: none;
+    color: #841818;
+}
+
+.content .sub{
+    padding-bottom: 20px;
+}
+
+.content p{
+    text-align: justify;
+}
+
+.pro li{
+    margin-right: 8.5px;
+    margin-bottom: 10px;
+    width : 140px;
+    height : 140px;
+    text-align: center;
+}
+
+.sc li{
+    margin-right: 55px;
+    margin-left: 55px;
+    margin-bottom: 50px;
+    width : 140px;
+    height : 140px;
+    text-align: center;
+}
+
+.poster{
+    width: 116.8px;
+}
+
+.polaroid {
+    width: 120px;
+}
+
+.namecard {
+    width: 129.33px;
+}
+
+.thankscard {
+    width: 136.33px;
+}
+
+.stiker {
+    width: 128.2px;
+}
+
+.design {
+    width: 128px;
+}
+
+.printing {
+    width: 128px;
+}
+
+.cutting {
+    width: 128px;
+}
+
+.ig {
+    width: 128px;
+}
+
+.wa {
+    width: 128px;
+}
+
+.shopee {
+    width: 128px;
+}
+
+.footer {
+    background-color: black;
+    padding : 5px;
+}
+
+.copy {
+    color: white;
+    text-align: center;
+    font-size: 12px;
+}
